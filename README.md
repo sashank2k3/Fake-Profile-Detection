@@ -42,7 +42,7 @@ The training includes feature normalization and multiple algorithm trials like L
 
 ## 🖥️ Project UI
 
-- The app is built with **Streamlit** for a clean and interactive interface.
+- The app is built with **Streamlit** for a clean and interactive interface
 - Users simply input a **username** and click **Predict**.
 - Output shows the profile’s stats and the prediction result with appropriate messaging (Success/Error).
 
