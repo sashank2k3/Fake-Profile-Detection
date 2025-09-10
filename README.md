@@ -10,7 +10,7 @@ This project is a real-time Instagram profile analyzer that predicts whether a g
 - You enter an Instagram **username**.
 - The application uses the **Apify API** to fetch public profile data.
 - It extracts key features such as:
-  - Number of followers
+  - Number of followers,
   - Number of followings
   - Number of posts
   - Is the account private?
